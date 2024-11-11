@@ -78,7 +78,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "자이로드는 "
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "자이로드는 차량의 디지털 데이터를 기록하는 **팩트박스**를 개발합니다. 편리한 차량 관리 기능과 신뢰성 있는 사고 분석을 제공하고자 보이지 않는 순간을 기록하여 더 안전하고 효율적인 운행을 돕는 것을 목표로 합니다. 자이로드의 고객의 안전과 편의를 최우선으로 생각하며, 미래의 스마트 모빌리티 환경을 선도하고자 합니다."
     section: about
 
   clients:
