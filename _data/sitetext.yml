@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Hi, we are XiROAD
+    text: 도로 위에서 안전할 수 있도록
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "자이로드는 차량용 운행기록 장치를 만들어요."
     section: services
     list:
       - title: "E-Commerce"
@@ -39,38 +39,45 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "새로운 가능성을 향한 자이로드의 도전"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "(주) 자이로드 법인 설립"
+        year: "Nov 2023"
+        desc: "자이로드의 새로운 시작"
+        image: assets/img/timeline/logo_bg.png
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "와디즈 크라우드 펀딩"
+        year: "Jun 2024"
+        desc: "wadiz 크라우드 펀딩 2,637% 달성!"
+        image: assets/img/timeline/wadiz.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
         align: right
+      - title: "TS 한국교통안전공단 공식 운행기록장치(DTG) 제조사"
+        year: "Aug 2024"
+        desc: "한국교통안전공단 DTG 전기전자 신뢰성 시험 통과. 전자식 운행기록장치(DTG) 공식 제조사 선정."
+        image: assets/img/timeline/ts.png
+        alt:
+        align: right
+      - title: "DGIST 창업 경진대회 대상"
+        year: "Oct 2024"
+        desc: "DGIST 교내 창업 경진대회 <자이로드> 대상 수상"
+        image: assets/img/timeline/dgist.jpg
+        alt: 
+        align: leftZ
+      - title: "과학기술특성화대학 공동 창업 경진대회 대상(장관상)"
+        year: "Nov 2024"
+        desc: "4대 과학기술 특성화대학(KAIST, GIST, DGIST, UNIST) 공동 창업경진대회, <자이로드> 대상(과학기술정보통신부장관상) 수상"
+        image: assets/img/timeline/x-ist.jpg
+        alt:
+        align: left
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "자이로드는 "
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
@@ -94,44 +101,44 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "우리는 자이로드의 미래를 설계합니다."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "김서현"
+        role: "CEO"
+        image: assets/img/team/seohyun.jpeg
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "김양열"
+        role: "COO"
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "송병준"
+        role: "PM"
+        image: assets/img/team/2.jpg
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "xiroadcorp@gmail.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
