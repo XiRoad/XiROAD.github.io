@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Factbox"
+    text: "자이로드는 차량용 운행기록 장치 <팩트박스> 를 만들어요."
     section: portfolio
     closebutton: "Close Project"
 
@@ -107,7 +107,7 @@ en: &DEFAULT_EN
     people:
       - name: "김서현"
         role: "CEO"
-        image: assets/img/team/seohyun.jpeg
+        image: assets/img/team/shkim.jpg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
         #     icon: fab fa-linkedin-in
       - name: "김양열"
         role: "COO"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/yykim.jpg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
@@ -135,6 +135,7 @@ en: &DEFAULT_EN
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
+        
 
   contact:
     title: "Contact Us"
