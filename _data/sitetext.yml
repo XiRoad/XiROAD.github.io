@@ -139,15 +139,15 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "xiroadcorp@gmail.com"
+    text: "자이로드와 함께 성장할 투자자를 기다리고 있습니다."
     section: contact
-    name: "Name*"
+    name: "Name 성함*"
     name-validation: "Please enter your name."
-    email: "Email*"
+    email: "Email 메일*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Phone Number 연락처"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "Message* (견적문의/투자문의)"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
