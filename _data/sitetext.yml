@@ -127,7 +127,7 @@ en: &DEFAULT_EN
         #     icon: fab fa-linkedin-in
       - name: "송병준"
         role: "PM"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/potados.png
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
