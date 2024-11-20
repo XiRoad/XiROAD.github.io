@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "자이로드는 차량용 운행기록 장치를 만들어요."
+    text: "현재 서비스 중인 제품 입니다"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[팩트박스 구경하기](https://www.wadiz.kr/web/campaign/detail/272758)"
+        desc: "와디즈에서 팩트박스 상세 페이지를 확인할 수 있어요! 지금 들어가서 구경해보세요~"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Play Store](https://play.google.com/store/apps/details?id=com.xiroad.factboxapp&pcampaignid=web_share)"
+        desc: "안드로이드(Android OS)기종을 위한 플레이스토어 팩트박스 모바일 앱"
+        icon: fa-brands fa-google-play
+      - title: "[App Store](https://apps.apple.com/kr/app/%ED%8C%A9%ED%8A%B8%EB%B0%95%EC%8A%A4/id6736531372)"
+        desc: "아이폰(iOS)을 위한 앱스토어 팩트박스 모바일 앱"
+        icon: fa-brands fa-app-store-ios
 
   portfolio:
     title: "Factbox"
@@ -63,7 +63,7 @@ en: &DEFAULT_EN
         align: right
       - title: "DGIST 창업 경진대회 대상"
         year: "Oct 2024"
-        desc: "DGIST 교내 창업 경진대회 <자이로드> 대상 수상"
+        desc: "DGIST 학생 창업 경진대회 <자이로드> 대상 수상"
         image: assets/img/timeline/dgist.jpg
         alt: 
         align: leftZ
@@ -86,23 +86,23 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "ts"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/ts.svg
-      - title: "designmodo"
+      - title: "xinex"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/xinex.svg
-      - title: "themeforest"
+      - title: "dgist"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/dgist.svg
-      - title: "Creative Market"
+      - title: "next"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/next.svg
 
   team:
     title: "OUR AMAZING TEAM"
     text: "우리는 자이로드의 미래를 설계합니다."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 자이로드는 다양한 분야에서 전문성을 갖춘 컴퓨터 엔지니어들로 구성되어 있으며, 신뢰를 바탕으로 혁신적인 솔루션을 제공합니다. 우리와 함께 미래를 만들어갈 열정적인 팀원을 찾습니다. 도전과 성장을 함께할 당신을 기다립니다!
     section: team
     people:
       - name: "김서현"
@@ -147,7 +147,7 @@ en: &DEFAULT_EN
     email-validation: "Please enter your email address."
     phone: "Phone Number 연락처"
     phone-validation: "Please enter your phone number."
-    message: "Message* (견적문의/투자문의)"
+    message: "Message* (견적문의/투자문의/채용문의)"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
